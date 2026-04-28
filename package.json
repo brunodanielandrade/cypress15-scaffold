@@ -1,0 +1,23 @@
+{
+  "name": "cypress15-scaffold",
+  "version": "1.0.0",
+  "description": "Projeto com o esqueleto funcional do Cypress 15x  para utilização futura.",
+  "homepage": "https://github.com/profangelodias/cypress15-scaffold#readme",
+  "bugs": {
+    "url": "https://github.com/profangelodias/cypress15-scaffold/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profangelodias/cypress15-scaffold.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.14.1"
+  }
+}
